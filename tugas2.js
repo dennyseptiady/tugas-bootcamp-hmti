@@ -2,7 +2,7 @@
 //2. Buat 2 contoh penggunaan looping dgn while yg dikombinasikan dengan if-else
 //3. Buat contoh penggunaan switch-case dan for-loop di javascript (sunnah ini mah)
 
-//ini jawaban Chelsi, yang nyontek dosa//
+//Semoga dilancarkan dengan bacaan bismillah
 
 //Jawaban No. 1
 //a. if
